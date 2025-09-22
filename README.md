@@ -1,3 +1,4 @@
 # utter-chaos
 
-Let's practice committing to a common repository together!
+Let's practice necromancy, dark wizardry and sabotaging repositories together
+MUAHAHAHAHAHAHAHAHAH
